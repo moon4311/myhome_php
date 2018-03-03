@@ -1,0 +1,9 @@
+.str_btnok { padding-top:2px; height:25px; background-color:#555555; font-weight:bold; color:#ffffff; border:2px solid #ff0000;}
+.str_btn { padding-top:2px; height:25px; background-color:#f8f8f8; font-weight:bold; color:#888888; border:2px solid #888888;}
+.str_er { clear:both; height:10px; font-size:10px; }
+.str_ersub { clear:both; border:1px solid #dddddd; background:#f1f1f1; width:680px; height:30px; padding:10px 10px 10px 10px; text-align:center; }
+.str_top { clear:both; border:1px solid #dddddd; background:#f8f8f8; padding:10px 10px 10px 10px; width:680px; height:65px; line-height:22px; text-align:left; }
+.str_topon { clear:both; border:1px solid #dddddd; background:#f8f8f8; padding:10px 10px 10px 10px; width:680px; height:45px; line-height:22px; text-align:left; }
+.str_con { clear:both; border:1px solid #dddddd;  background:#f8f8f8; padding:10px 10px 10px 10px; width:680px; height:180px; text-align:center; }
+.str_bt { clear:both; border:1px solid #dddddd;  background:#f8f8f8; padding:10px 10px 10px 10px; width:680px; height:110px; text-align:left; }
+.str_bton { clear:both; border:1px solid #dddddd;  background:#f8f8f8; padding:10px 10px 10px 10px; width:680px; height:70px; text-align:center; }

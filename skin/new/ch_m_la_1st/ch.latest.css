@@ -1,0 +1,38 @@
+
+
+.chance_la_1st { height: 106px; overflow: hidden; padding: 15px; border: solid 2px #90B1E7;
+}
+* html .chance_la_1st { height: 140px; overflow: hidden; padding: 15px; border: solid 2px #90B1E7;
+}
+
+
+.chance_la_1st_div { width: 100%; height: 20px; margin: 0px; text-align: left;
+}
+
+.chance_la_1st_span_le { float: left; width: 50%; margin: 0px; text-align: left;
+}
+.chance_la_1st_span_ri { float: right; width: 50%; margin: 0px; text-align: right;
+}
+
+.chance_la_1st_title { margin: 0px; text-align: left; padding-left: 10px;
+ font-family: nanumEB,dotum; font-weight: bold; font-size: 14px; color: #393939;
+ background:url(./img/line_ver.gif) no-repeat center left;
+}
+
+.chance_la_1st_line { margin: 8px 0px 3px 0px; text-align: left; height: 1px; font-size: 1px;
+ background:url(./img/line_hor.gif) repeat-x center left;
+}
+
+.chance_la_1st_suj_ico { margin: 0px; text-align: left;
+ background:url(./img/bo_la_ico.gif) no-repeat center left;
+ height: 9px;
+}
+
+
+.chance_la_1st_list { height: 120px; margin: 0px; padding: 3px 0px 5px 0px; list-style-type: none; }
+
+.chance_la_1st_list li { height: 20px; margin: 0px 0px; padding-top: 5px; }
+
+* html .chance_la_1st_list li { height: 20px; margin: 0px 0px; padding-bottom: 4px; }
+
+.chance_la_1st_list li .name { float: right; }

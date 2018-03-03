@@ -1,0 +1,1 @@
+<? $img_size_setup = 800 ?>
